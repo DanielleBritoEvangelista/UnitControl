@@ -69,8 +69,5 @@
 
 ## Repositório no GitHub
 
-O código-fonte do projeto pode ser encontrado no [repositório GitHub](URL_DO_SEU_REPOSITORIO).
+O código-fonte do projeto pode ser encontrado no [repositório GitHub](https://github.com/DanielleBritoEvangelista/UnitControl).
 
----
-
-Lembre-se de substituir `URL_DO_SEU_REPOSITORIO` pela URL real do seu repositório no GitHub. Essa documentação servirá como um guia inicial para os desenvolvedores que colaborarão ou revisarão seu código.

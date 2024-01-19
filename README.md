@@ -14,18 +14,14 @@ O objetivo deste projeto é criar um sistema de gerenciamento de colaboradores u
    - **Ranking de Colaboradores Melhores Avaliados:** Nome, CPF, Email, Unidade, Cargo, Nota de Desempenho.
 
 ## Documentação
-A documentação detalhada do projeto está disponível na pasta [Docs](/Docs). Você encontrará informações sobre:
+A documentação detalhada do projeto está disponível na pasta [Docs](https://github.com/DanielleBritoEvangelista/UnitControl/tree/main/docs). Você encontrará informações sobre:
 
-- Arquitetura do Sistema
-- Planejamento Geral
-- Levantamento de Requisitos
-- Configuração do Ambiente de Desenvolvimento
+- [Levantamento de Requisitos](https://github.com/DanielleBritoEvangelista/UnitControl/blob/main/docs/requirementsGathering.md)
+- [Configuração do Ambiente de Desenvolvimento](https://github.com/DanielleBritoEvangelista/UnitControl/blob/main/docs/environmentConfiguration.md)
+- [Relacionamento do Banco de Dados](https://github.com/DanielleBritoEvangelista/UnitControl/blob/main/docs/databaseRelationship.md)
 
 ## Configuração do Ambiente
-Para configurar o ambiente de desenvolvimento, siga as instruções detalhadas na seção de [Configuração do Ambiente de Desenvolvimento](/Docs/Configuracao_Ambiente.md) na documentação.
-
-## Desenvolvimento
-O sistema está sendo desenvolvido seguindo a metodologia Scrum. As tarefas específicas de cada sprint estão documentadas no arquivo [Scrum.md](/Scrum.md).
+Para configurar o ambiente de desenvolvimento, siga as instruções detalhadas na seção de [Configuração do Ambiente de Desenvolvimento](https://github.com/DanielleBritoEvangelista/UnitControl/blob/main/docs/environmentConfiguration.md) na documentação.
 
 ## Contribuições
 No momento, não estou aceitando colaboradores externos para este projeto. No entanto, feedback e sugestões são bem-vindos por meio das issues do GitHub.

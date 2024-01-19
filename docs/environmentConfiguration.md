@@ -64,4 +64,4 @@ Antes de começar, certifique-se de que o ambiente de desenvolvimento atende aos
     O servidor estará acessível em http://localhost:8000.
 
 ## Conclusão
-O ambiente de desenvolvimento foi configurado com sucesso. Agora você está pronto para iniciar o desenvolvimento do projeto Laravel 7/8. Consulte a documentação oficial do Laravel (https://laravel.com/docs) para informações detalhadas sobre recursos e boas práticas de desenvolvimento.
+O ambiente de desenvolvimento foi configurado com sucesso. Agora você está pronto para iniciar o desenvolvimento do projeto Laravel 7/8. Consulte a documentação oficial do Laravel (https://laravel.com/docs/8.x) para informações detalhadas sobre recursos e boas práticas de desenvolvimento.
