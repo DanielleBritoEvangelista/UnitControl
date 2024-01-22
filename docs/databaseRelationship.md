@@ -13,6 +13,7 @@
 2. **Colaboradores**
    - `id`: Identificador único do colaborador (chave primária)
    - `unidade_id`: Chave estrangeira referenciando a tabela Unidades
+   - `cargo_id`: Chave estrangeira referenciando a tabela Cargos
    - `nome`: Nome do colaborador
    - `cpf`: CPF do colaborador
    - `email`: E-mail do colaborador
@@ -29,12 +30,12 @@
 
 ### Relacionamentos
 
-- A tabela `Colaboradores` possui uma chave estrangeira (`unidade_id`) que referencia a tabela `Unidades`.
-- A tabela `Cargo_Colaborador` possui duas chaves estrangeiras (`cargo_id` e `colaborador_id`) que referenciam as tabelas `Cargos` e `Colaboradores`, respectivamente.
+- A tabela `Colaboradores` possui duas chaves estrangeiras (`cargo_id` e `unidade_id`) que referenciam as tabelas `Cargos` e `Unidades`.
+- A tabela `Cargo_Colaborador` possui duas chaves estrangeiras (`cargo_id` e `colaborador_id`) que referenciam as tabelas `Cargos` e `Colaboradores`.
 
 ## População do Banco de Dados
 
-1. Popule as tabelas `Unidades` e `Cargos` com no mínimo 100 e 10 registros, respectivamente.
+1. Popule as tabelas `Unidades` e `Cargos` com no mínimo 100 e 10 registros.
 2. Popule a tabela `Colaboradores` vinculando cada colaborador a uma unidade e cargo.
 3. Popule a tabela `Cargo_Colaborador` com as notas de desempenho para cada colaborador.
 
