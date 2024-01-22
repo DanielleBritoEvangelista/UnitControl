@@ -4,10 +4,13 @@ Este documento fornece instruções para configurar o ambiente de desenvolviment
 
 ## Pré-requisitos
 Antes de começar, certifique-se de que o ambiente de desenvolvimento atende aos seguintes requisitos:
+
 - Composer: Instalador de dependências do PHP.
 - PHP: Versão 7.3 ou superior.
 - MySQL ou outro banco de dados de sua escolha.
 - Git: Sistema de controle de versão distribuído.
+
+Dica: Recomendamos a instalação do XAMPP, que proporciona tanto o PHP quanto um banco de dados integrado. Essa escolha simplifica significativamente o processo de configuração do ambiente de desenvolvimento.
 
 ## Configuração do Projeto
 1. Clone o repositório do GitHub:
