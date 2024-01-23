@@ -74,7 +74,6 @@
                                 <td>{{$row->position->position_name}}</td>
                                 <td>{{$row->performance_note}}</td>
                                 <th scope="col">
-                                    <button type="button" class="btn btn-danger">Excluir</button>
                                     <a href="/performance/edit/{{ $row->id }}" class="btn btn-info">Editar</a>
                                 </th>
                             </tr>
